@@ -6,6 +6,7 @@
 ```
 
 ##### Styling
+
 ```
 **This is bold text**
 *This text is italicized*
